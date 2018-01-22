@@ -1,5 +1,5 @@
 # python course
-Solution for all the problem sets from [EDX MITx -  6.00.1x - Introduction to Computer Science and Programming Using 
+Solution to all the problem sets from [EDX MITx -  6.00.1x - Introduction to Computer Science and Programming Using 
 Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11).
 All solutions received scores of 100%.
 
